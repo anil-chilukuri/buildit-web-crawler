@@ -17,11 +17,11 @@ Web crawling is an intensive task, especially when it involves multilevel links 
 
 ## Dependencies
 Following are the dependent libraries that are used by the crawler application.
-![Dependencies](./images/dependencies.png)
+![Dependencies](./images/dependencies.PNG)
 
 ## Tests
 Following are the list of Unit tests and Integration tests that I have added as part of the application development.
-![Tests](./images/tests.png)
+![Tests](./images/tests.PNG)
 
 >         Developed in Spring STS IDE
 
